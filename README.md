@@ -10,23 +10,10 @@ Connect with me!
 
 <br/>
 
- <ul style='display:flex; list-style: none; margin:0 auto; width:60%;'>
-  <li style='margin-right:6px'> 
-    <a href="mailto:slabarsk249@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  
-  </li>
-   <li style='margin-right:6px'> 
-    <a href="https://www.linkedin.com/in/s%C4%B1la-bar%C4%B1%C5%9F%C4%B1k-2a07b0202/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  
-  </li>
-   <li style='margin-right:6px'> 
-    <a href="https://twitter.com/Buubituzak"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  
-  </li>
-   <li style='margin-right:6px'> 
-    <a href="https://www.instagram.com/slabarsk/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-    </li>
- </ul>
+[![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:slabarsk249@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/s%C4%B1la-bar%C4%B1%C5%9F%C4%B1k-2a07b0202/) 
+[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Buubituzak)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/slabarsk/) 
 
 <br/><br/>
 <hr/>
