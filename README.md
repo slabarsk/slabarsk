@@ -37,5 +37,5 @@ I am currently living in İzmir/Turkey. During my college, I believe, I was able
 
 
 
-![Sıla's GitHub stats](https://github-readme-stats.vercel.app/api?username=slabarsk&show_icons=true&theme=slateorange)
+![Sıla's GitHub stats](https://slabarsk.vercel.app/api?username=slabarsk&show_icons=true&theme=slateorange)
 
