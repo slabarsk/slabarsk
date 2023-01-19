@@ -27,7 +27,7 @@ Connect with me!
 
 <br >
 
-I am currently living in İzmir/Turkey. During my college, I believe, I was able to gather sufficient information and experience in my classroom and laboratory sessions. Now, I am a 3rd year student and my studies in the field continue to fuel my interest in Frontend, this year. 
+I am currently living in Izmir/Turkey. During my college, I believe, I was able to gather sufficient information and experience in my classroom and laboratory sessions. Now, I am a 3rd year student and my studies in the field continue to fuel my interest in Frontend. 
 
 <hr/><br/>
 
