@@ -3,10 +3,6 @@
   Hey there, I'm Sıla Barışık!
 </h1>
 
-<h3 align="center" style="font-size:18px;">
-  Frontend Developer · AI Enthusiast
-</h3>
-
 <br/>
 
 <p align="center">
